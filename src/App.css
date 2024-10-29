@@ -1,0 +1,66 @@
+body {
+    
+    background-color: rgb(224, 217, 209);
+  }
+.App{
+    text-align: center;
+    
+}
+.fontstyle {
+    padding: 50px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  text-align: left;
+  font-size: x-large;
+}
+.nav-links {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+    margin-top: -90px;
+}
+.header{
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: xx-large;
+    margin-top: 60px;
+}
+.signinbutton{
+    width: 30%;
+}
+.signin{
+    width: 33.5%;
+    height: 40px;
+    color:white;
+    background-color: rgb(255, 171, 16);
+    border-radius: 8px;
+    border-color: rgb(255, 171, 16);
+}
+.text{
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: small;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: -100px;
+}
+.text2{
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
+    font-size: small;
+    text-align: center;
+    margin-top: -35px;
+    margin-left: 154px;
+    color: rgb(255, 171, 16);
+}
+.footer {
+    background-color: rgb(41, 40, 40); /* Set the background color to black */
+    color: white; /* Set the text color to white for contrast */
+    text-align: center; /* Center the text */
+   padding: 20px;
+    margin-top: 160px; /* Push footer to the bottom */
+  }
